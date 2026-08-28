@@ -54,10 +54,10 @@ Pricing analysis for a fictional coffee D2C brand (synthetic dataset)  using SQL
 
 <img width="1621" height="920" alt="image" src="https://github.com/user-attachments/assets/0d15e717-c3ab-4439-a736-7b964b81f360" />
 
->1. COGS rising ~5% CAGR uniformly across all products – likely structural (tariffs, contracts, freight), not commodity-specific.
->2. COGS steps up every January – same timing across all products, reinforcing structural cause.
->3. Prices flat since 2023 while COGS rises --> margin eroded from 56.64% (2023) --> 52.43% (2025).
->4. The merchandise category has the lowest profit margin (36.21% as of 2025) while Accessories has the second lowest margin of 42.27%.
+1. COGS rising ~5% CAGR uniformly across all products – likely structural (tariffs, contracts, freight), not commodity-specific.
+2. COGS steps up every January – same timing across all products, reinforcing structural cause.
+3. Prices flat since 2023 while COGS rises --> margin eroded from 56.64% (2023) --> 52.43% (2025).
+4. The merchandise category has the lowest profit margin (36.21% as of 2025) while Accessories has the second lowest margin of 42.27%.
 
 ### Recommended Price Increases
 
