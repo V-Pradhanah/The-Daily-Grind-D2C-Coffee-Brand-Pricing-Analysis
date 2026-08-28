@@ -16,6 +16,37 @@ Pricing analysis for a fictional coffee D2C brand (synthetic dataset)  using SQL
 2. PowerBI
 3. MS Excel
 
+## Repo Structure
+
+```
+The-Daily-Grind-D2C-Coffee-Brand-Pricing-Analysis.git/
+├── Business Problem Statement.pdf
+├── Dataset/
+│   ├── Orders_2023.csv
+│   ├── Orders_2024.csv
+│   ├── Orders_2025.csv
+│   ├── customers.csv
+│   └── products.csv
+├── Dax_Measures_Excel.pdf
+├── LICENSE
+├── Project Documentation.pdf
+├── README.md
+├── Reports/
+│   ├── Pricing analysis - Insights.pdf
+│   └── TheDailyGrindReport.pbix
+└── Scripts/
+    ├── Data Preparation using Views/
+    │   ├── DDL & DML Dim Date.sql
+    │   ├── View- Fact Order Details.sql
+    │   └── View-all orders & dim products , CTAS-cleaned products.sql
+    ├── EDA.sql
+    ├── Quality Checks/
+    │   ├── 1.Quality Checks.sql
+    │   └── 2.Quality Checks.sql
+    └── View product cost over the years.sql
+
+```
+
 ## Data Cleaning/Quality Checks
 
 1. Trim checks for Text and Alphanumeric columns
