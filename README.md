@@ -77,13 +77,22 @@ The-Daily-Grind-D2C-Coffee-Brand-Pricing-Analysis.git/
 
 ## Findings Summary
 
+### Overall View
+
 <img width="1628" height="906" alt="image" src="https://github.com/user-attachments/assets/c4939521-8510-435b-bda8-32423a29e323" />
+
+### Individual Product Specifications
 
 <img width="1618" height="917" alt="image" src="https://github.com/user-attachments/assets/420a73d6-67ab-435f-8579-e576b3bf4979" />
 
+### Composition and Comparison
+
 <img width="1617" height="918" alt="image" src="https://github.com/user-attachments/assets/aed1e945-0c44-402a-99a2-b982b93351c4" />
 
+### Overall Matrix
+
 <img width="1621" height="920" alt="image" src="https://github.com/user-attachments/assets/0d15e717-c3ab-4439-a736-7b964b81f360" />
+
 
 1. COGS rising ~5% CAGR uniformly across all products – likely structural (tariffs, contracts, freight), not commodity-specific.
 2. COGS steps up every January – same timing across all products, reinforcing structural cause.
