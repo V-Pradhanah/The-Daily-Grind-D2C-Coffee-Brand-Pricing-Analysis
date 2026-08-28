@@ -2,10 +2,10 @@
 Pricing analysis for a fictional coffee D2C brand (synthetic dataset)  using SQL &amp; Power BI to understand rising COGS and declining profit margins, and identify products which require pricing adjustment.
 
 ##Project Overview
->An end to end data analysis project examining the performance of The Daily Grind - D2C (Coffee & Coffeeware) business to understand how rising COGS has impacted profit margin over the years (2023-2025)  and to identify the products that require prompt attention to price modification.
+   An end to end data analysis project examining the performance of The Daily Grind - D2C (Coffee & Coffeeware) business to understand how rising COGS has impacted profit margin over the years (2023-2025)  and to identify the products that require prompt attention to price modification.
 
 ##Source
->This analysis uses the 'Data Analysis Project November 2025 Youtube.zip' dataset, sourced from Github user Gaelim  (accessed in August 2026). The dataset is synthetic,built to resemble a real-world e-commerce business and the temporal scope of this dataset ranges from 2nd January 2023 until 30th November 2025.
+   This analysis uses the 'Data Analysis Project November 2025 Youtube.zip' dataset, sourced from Github user Gaelim  (accessed in August 2026). The dataset is synthetic,built to resemble a real-world e-commerce business and the temporal scope of this dataset ranges from 2nd January 2023 until 30th November 2025.
 
 ##Tools used
 1. SQL Server
@@ -36,6 +36,7 @@ Pricing analysis for a fictional coffee D2C brand (synthetic dataset)  using SQL
 2. Calculating measures from base value for non-additive measure like Profit Margin and Markup % rather than averaging each row margin/markup %.
 
 ##Findings Summary
+
 <img width="1628" height="906" alt="image" src="https://github.com/user-attachments/assets/c4939521-8510-435b-bda8-32423a29e323" />
 
 <img width="1618" height="917" alt="image" src="https://github.com/user-attachments/assets/420a73d6-67ab-435f-8579-e576b3bf4979" />
