@@ -73,5 +73,5 @@ Value-based pricing • Competitive pricing • Basket & bundle pricing (↑ Ave
 
 ## Credits
 
--Coffee bag icon used in dashboard by (surang)[<a href="https://www.flaticon.com/free-icons/coffee-bag" title="coffee bag icons">Coffee bag icons created by surang - Flaticon</a>]
--Dataset sourced from Github User (Gaelim)[https://github.com/Gaelim]
+1. Coffee bag icon used in dashboard by (surang)[<a href="https://www.flaticon.com/free-icons/coffee-bag" title="coffee bag icons">Coffee bag icons created by surang - Flaticon</a>]
+2. Dataset sourced from Github User (Gaelim)[https://github.com/Gaelim]
