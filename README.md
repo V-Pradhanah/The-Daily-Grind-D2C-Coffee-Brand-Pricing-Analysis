@@ -94,6 +94,14 @@ The-Daily-Grind-D2C-Coffee-Brand-Pricing-Analysis.git/
 
 <img width="1476" height="342" alt="image" src="https://github.com/user-attachments/assets/1d133773-a95c-443d-9cf1-f4bdb302399b" />
 
+### Limitations
+
+1. Since Price hasn’t changed throughout the portfolio and with no history of product price variation , elasticity of product couldn’t be measured. This would have been very useful in product pricing.
+
+2. Each row in the order details table represents an unique order and only one product has been ordered in a single order (given this is a synthetic dataset). This restricted in performing a basket analysis and thus basket-based pricing.
+
+3. Specific details of products like what comes in a pour over starter kit, how much each consumables and subscription products weigh hinders from doing competitive pricing. E.g. Knowing the quantity of espresso sampler packs would be valuable in comparing prices to market alternatives of the same quantity.
+
 ### Conclusion
 
 Gradual price revision needed to offset rising COGS and restore margins toward 2023 levels – a steep one-time hike risks attrition given volatile green bean costs.
